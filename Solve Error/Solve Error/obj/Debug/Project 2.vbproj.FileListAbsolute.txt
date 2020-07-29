@@ -1,0 +1,9 @@
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\obj\Debug\Solve_Error.Resources.resources
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\obj\Debug\Project 2.vbproj.GenerateResource.Cache
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\obj\Debug\Solve Error.dll
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\obj\Debug\Solve Error.xml
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\obj\Debug\Solve Error.pdb
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\bin\Solve Error.dll.config
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\bin\Solve Error.dll
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\bin\Solve Error.pdb
+C:\Users\Naasir\documents\visual studio 2013\Projects\Solve Error\Solve Error\bin\Solve Error.xml
